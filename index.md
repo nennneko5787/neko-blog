@@ -1,3 +1,3 @@
 ---
-redirect_to: "20230204_1.md"
+redirect_to: "トップページ.md"
 ---
